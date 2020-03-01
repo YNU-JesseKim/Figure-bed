@@ -10,11 +10,11 @@
 
 点击加号新建一个仓库：
 
-![](https://raw.githubusercontent.com/YNU-JesseKim/Figure-bed/master/img/static/image-20200225162515745.png)c
+![](https://cdn.jsdelivr.net/gh/YNU-JesseKim/Figure-bed/img/static/image-2020022516251574.png)
 
 填写仓库信息：
 
-![](https://raw.githubusercontent.com/YNU-JesseKim/Figure-bed/master/img/static/image-20200225162905819.png)
+![](https://cdn.jsdelivr.net/gh/YNU-JesseKim/Figure-bed/img/static/image-2020022516290581.png)
 
 ## 3 生成token
 
